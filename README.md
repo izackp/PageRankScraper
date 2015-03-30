@@ -8,7 +8,7 @@ Input must have 1 argument:
 
 #### Example Result
 Output is a json with the page rank and statistics:
-`
+```
 {
 "googlePageSuccess": True,
 "googlePageRank": 9,
@@ -19,4 +19,4 @@ Output is a json with the page rank and statistics:
 "reachRank": 1,
 "trafficRank": 1
 }
-`
+```
